@@ -127,18 +127,28 @@ const Aathif = {
 
 <h2 align="center">GitHub Intelligence Dashboard</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AathifCodeRealm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AathifCodeRealm&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-</p>
+<div align="center">
+  
+  <img width="49%" height="195px"
+       src="https://github-readme-stats.vercel.app/api?username=AathifCodeRealm&show_icons=true&count_private=true&hide_border=true&title_color=FECEE9&icon_color=EB9FEF&text_color=FECEE9&bg_color=011C2F&border_radius=12" />
+  <img width="49%" height="195px"
+       src="https://nirzak-streak-stats.vercel.app/?user=AathifCodeRealm&theme=dark&hide_border=true&background=011C2F&stroke=545677&ring=EB9FEF&fire=FECEE9&currStreakLabel=EB9FEF&sideNums=FECEE9&currStreakNum=FECEE9&border_radius=12" />
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AathifCodeRealm&theme=radical&utcOffset=5.5" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AathifCodeRealm&bg_color=011C2F&color=FECEE9&line=EB9FEF&point=545677&area=true&hide_border=true&custom_title=Contribution%20Graph" />
-</p>
+<div align="center">
+  
+  <img width="49%"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=AathifCodeRealm&layout=compact&hide_border=true&title_color=FECEE9&text_color=FECEE9&bg_color=011C2F&langs_count=8&border_radius=12" />
+  <img width="49%"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AathifCodeRealm&theme=github_dark&utcOffset=5.5" />
+
+</div>
+
+<div align="center">
+  <img width="98%"
+       src="https://github-readme-activity-graph.vercel.app/graph?username=AathifCodeRealm&bg_color=011C2F&color=FECEE9&line=EB9FEF&point=545677&area=true&hide_border=true" />
+</div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
