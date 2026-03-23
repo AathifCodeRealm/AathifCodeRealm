@@ -139,7 +139,7 @@ const Aathif = {
 <div align="center">
   
   <img width="49%"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=AathifCodeRealm&layout=compact&hide_border=true&title_color=FECEE9&text_color=FECEE9&bg_color=011C2F&langs_count=8&border_radius=12" />
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=AathifCodeRealm&layout=compact&hide_border=true&title_color=FECEE9&text_color=FECEE9&bg_color=011C2F&border_radius=12" />
   <img width="49%"
        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AathifCodeRealm&theme=github_dark&utcOffset=5.5" />
 
