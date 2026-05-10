@@ -17,20 +17,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/216656952-1f5e8f8d-b8a3-4ee2-bf1f-cf5c2548570d.gif" width="100%" height="8" />
 </p>
 
-<h2 align="center">Color Palette</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-FECEE9-FECEE9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-EB9FEF-EB9FEF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-545677-545677?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-03254E-03254E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-011C2F-011C2F?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <b>#FECEE9 | #EB9FEF | #545677 | #03254E | #011C2F</b>
-</p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FECEE9,25:EB9FEF,50:545677,75:03254E,100:011C2F&height=5&section=header&animation=blinking" width="100%" />
 </p>
@@ -232,9 +218,6 @@ const Aathif = {
   </a>
   <a href="https://www.facebook.com/share/18WFsWXDCz/" target="_blank">
     <img src="https://img.icons8.com/fluency/96/facebook-new.png" width="64" alt="Facebook" />
-  </a>
-  <a href="https://vm.tiktok.com/ZS9R5uL5ewsoG-VB8LK/" target="_blank">
-    <img src="https://img.icons8.com/fluency/96/tiktok.png" width="64" alt="TikTok" />
   </a>
   <a href="https://www.linkedin.com/in/your-username/" target="_blank">
     <img src="https://img.icons8.com/fluency/96/linkedin.png" width="64" alt="LinkedIn" />
